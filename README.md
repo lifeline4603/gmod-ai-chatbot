@@ -34,11 +34,13 @@ this script requires a few things to run. please make sure you have the followin
 - latest version of [python](https://www.python.org/)
 - full version of [ffmpeg](https://www.ffmpeg.org/download.html#build-windows)
   - [tutorial here](https://www.youtube.com/watch?v=IECI72XEox0)
+- an account on [character.ai](https://character.ai)
 - a garrys mod installation
 - a lua executor
 - sanity
+
 > [!WARNING]
-> if you dont have sanity, you will die using this script, because its so bad LOL
+> this script is very unoptimized and can have many bugs. if you have any issues, please dm me on discord!
   
 ## credits
 thank you to [skelcium](https://github.com/skelcium) for the inspiration. check out the original script [here](https://github.com/skelcium/CS2-Chatbot)
