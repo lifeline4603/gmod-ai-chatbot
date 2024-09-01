@@ -22,12 +22,12 @@ once its done, it sends the string to `"chatbot_message.txt"` and it sets `"chat
 - lazy
 
 ## to-do
-- iron out any bugs
-- add a retry to the python script to repeat 3 times before quitting
-- add a check for string length and to split messages evenly
-- put everything in 1 txt file
-- easier execution
-- possibly use old.character.api
+[ ] iron out any bugs
+[ ] add a retry to the python script to repeat 3 times before quitting
+[ ] add a check for string length and to split messages evenly
+[ ] put everything in 1 txt file
+[ ] easier execution
+[ ] possibly use old.character.api
 
 ## requirements
 this script requires a few things to run. please make sure you have the following installed:
