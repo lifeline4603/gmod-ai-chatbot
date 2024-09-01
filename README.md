@@ -24,6 +24,16 @@ once its done, it sends the string to "chatbot_message.txt" and it sets "chatbot
 - add a check for string length and to split messages evenly
 - put everything in 1 txt file
 - easier execution
+- possibly use old.character.api
 
+## requirements
+this script requires a few things to run. please make sure you have the following installed:
+- latest version of [python](https://www.python.org/)
+- full version of [ffmpeg](https://www.ffmpeg.org/download.html#build-windows)
+  - [tutorial here](https://www.youtube.com/watch?v=IECI72XEox0)
+- a garrys mod installation
+- a lua executor
+- sanity
+  
 ## credits
 thank you to [skelcium](https://github.com/skelcium) for the inspiration. check out the original script [here](https://github.com/skelcium/CS2-Chatbot)
